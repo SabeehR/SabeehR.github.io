@@ -3,7 +3,7 @@
 
 I am a computer science major at CSUF and I plan on graduating in 2029.
 
-## Favorite CPSC 120 Labs
+## Favorite CPSC 120L Labs
 
 * Lab 1, part 1
 
