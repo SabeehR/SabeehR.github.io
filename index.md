@@ -1,7 +1,12 @@
+# Hello World!
 
 # Sabeehur Rahman's Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2029.
+This is my home page! My name is Sabeehur Rahman and I am a student [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science and I plan on graduating in 2029.
+
+## Computer Science Projects
+
+My Github page is http://github.com/SabeehR.
 
 ## Favorite CPSC 120L Labs
 
