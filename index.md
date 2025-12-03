@@ -6,7 +6,7 @@ This is my homepage! My name is Sabeehur Rahman, and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My Github page is http://github.com/SabeehR.
+My Github page is (http://github.com/SabeehR).
 
 ## Favorite CPSC 120L Labs
 
